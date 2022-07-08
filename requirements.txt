@@ -9,3 +9,4 @@ yake
 snowflake-connector-python
 snowflake-snowpark-python
 extra_streamlit_components
+cffi==1.5.2
