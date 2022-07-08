@@ -1,0 +1,11 @@
+# requirements.txt
+streamlit
+snowflake-sqlalchemy
+streamlit-aggrid
+st-annotated-text
+graphviz
+streamlit_wordcloud
+yake
+snowflake-connector-python
+snowflake-snowpark-python
+extra_streamlit_components
