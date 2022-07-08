@@ -7,4 +7,4 @@ streamlit_wordcloud
 yake
 snowflake-snowpark-python
 extra_streamlit_components
-cddi==1.15.0
+cffi==1.15.0
